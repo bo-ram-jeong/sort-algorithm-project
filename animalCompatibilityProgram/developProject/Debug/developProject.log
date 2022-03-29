@@ -1,0 +1,6 @@
+﻿  compatibility.cpp
+c:\users\wlwlw\source\repos\developproject\developproject\compatibility.cpp(25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\wlwlw\source\repos\developproject\developproject\compatibility.cpp(60): error C2664: 'void intswap(int *,int *)': 인수 1을(를) 'char (*)[20]'에서 'int *'(으)로 변환할 수 없습니다.
+  c:\users\wlwlw\source\repos\developproject\developproject\compatibility.cpp(60): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\wlwlw\source\repos\developproject\developproject\compatibility.cpp(61): error C2664: 'void intswap(int *,int *)': 인수 1을(를) 'char (*)[20]'에서 'int *'(으)로 변환할 수 없습니다.
+  c:\users\wlwlw\source\repos\developproject\developproject\compatibility.cpp(61): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
